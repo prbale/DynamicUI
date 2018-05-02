@@ -1,0 +1,17 @@
+{
+  "count": "1",
+  "step1": {
+    "fields": [
+      {
+        "key": "fromAccount",
+        "type": "from_account_view"
+      },
+      {
+        "key": "toAccount",
+        "type": "to_account_view"
+      }
+    ],
+    "title": "Step 1 of 1",
+    "next": "step2"
+  }
+}
